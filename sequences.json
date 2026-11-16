@@ -8,8 +8,35 @@
           "nom": "Séance 1",
           "ficheEleve": "https://docs.google.com/document/d/1ZcW_wi_RhiuOKQndHvgnkS089agx4eTR/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
         }
+        {
+          "nom": "Séance 2",
+          "ficheEleve": "https://docs.google.com/document/d/1P4IZ18t1tNXLWMPkIz_-da5npEcbkDtK/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
       ],
       "ficheConnaissances": "https://drive.google.com/drive/folders/1GereuAZSj-GJvscXth0T-Qb_KzTCo7RX?usp=sharing"
+    }
+    {
+      "numero": 2,
+      "titre": "Faire bon usage des outils numériques",
+      "seances": [
+        {
+          "nom": "Séance 1",
+          "ficheEleve": "https://docs.google.com/document/d/1l5mA-E0AqUOCa1ZV_sfXuso7jY--lBii/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
+        {
+          "nom": "Séance 2",
+          "ficheEleve": "https://docs.google.com/document/d/1qCrDUoVwO5KVK4jjRYMRZQR3Ln8p0-NB/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
+        {
+          "nom": "Séance 3",
+          "ficheEleve": "https://docs.google.com/document/d/1NbyzFd6dNlA5PBm04cv6qx28mcklLNF6/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
+        {
+          "nom": "Séance 4",
+          "ficheEleve": "https://docs.google.com/document/d/1iKqxceueJBvX1MM1V8LTYTUrTRMOnuPP/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
+      ],
+      "ficheConnaissances": "https://drive.google.com/file/d/1SleFIs0XPXcv82khwdUjBjN0w4Qji5W5/view?usp=drive_link"
     }
   ],
   "4e": [
