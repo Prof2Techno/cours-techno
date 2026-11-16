@@ -1,0 +1,50 @@
+{
+  "5e": [
+    {
+      "numero": 1,
+      "titre": "Exploiter le réseau informatique",
+      "seances": [
+        {
+          "nom": "Séance 1",
+          "ficheEleve": "https://docs.google.com/document/d/1ZcW_wi_RhiuOKQndHvgnkS089agx4eTR/edit?usp=sharing&ouid=102897682467096034242&rtpof=true&sd=true"
+        }
+      ],
+      "ficheConnaissances": "https://drive.google.com/drive/folders/1GereuAZSj-GJvscXth0T-Qb_KzTCo7RX?usp=sharing"
+    }
+  ],
+  "4e": [
+    {
+      "numero": 0,
+      "titre": "Utiliser l’Intelligence Artificielle comme assistant",
+      "seances": [
+        {
+          "nom": "Séance 1",
+          "ficheEleve": "https://drive.google.com/exemple3",
+          "exemple": true
+        },
+        {
+          "nom": "Séance 2",
+          "ficheEleve": ""
+        }
+      ],
+      "ficheConnaissances": ""
+    }
+  ],
+  "3e": [
+    {
+      "numero": 1,
+      "titre": "Le système de navigation",
+      "seances": [
+        {
+          "nom": "Séance 1",
+          "ficheEleve": ""
+        },
+        {
+          "nom": "Séance 2",
+          "ficheEleve": ""
+        }
+      ],
+      "ficheConnaissances": ""
+    }
+  ]
+}
