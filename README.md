@@ -1,6 +1,4 @@
-# Mes séquences de Technologie
-
-Portail personnel des séquences de Technologie – Cycle 4 (5e, 4e et 3e).
+# Portail personnel des séquences de Technologie – Cycle 4 (5e, 4e et 3e)
 
 ## Accès au site
 
