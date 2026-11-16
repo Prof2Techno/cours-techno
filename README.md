@@ -2,7 +2,7 @@
 Portail personnel des séquences de Technologie – Cycle 4 (5e, 4e et 3e).
 
 ## Accès au site
-[Ouvrir le portail des séquences](https://prof2techno.github.io/cours-techno/)
+[Ouvrir le portail des séquences](https://prof2techno.github.io/cours-techno/technologie.html)
 
 ## Contenu
 - Séquences organisées par niveau (5e, 4e, 3e)
